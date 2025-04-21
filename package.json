@@ -1,18 +1,16 @@
 {
-    "name": "pair-code-maker",
-    "version": "1.0.0",
-    "description": "Pair code maker for WhatsApp using Maher Zubair Baileys",
-    "main": "pair.js",
-    "scripts": {
-      "dev": "vercel dev",
-      "start": "vercel start"
-    },
-    "dependencies": {
-      "express": "^4.17.1",
-      "pastebin-js": "^1.0.0",
-      "maher-zubair-baileys": "^1.0.0",
-      "pino": "^8.0.0",
-      "fs": "0.0.1"
-    }
+  "name": "pair-code-maker",
+  "version": "1.0.0",
+  "description": "Pair code maker for WhatsApp using Maher Zubair Baileys",
+  "main": "pair.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel start"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pastebin-js": "^1.0.0",
+    "maher-zubair-baileys": "^1.0.0",
+    "pino": "^8.0.0"
   }
-  
+}
