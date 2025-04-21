@@ -9,8 +9,7 @@
   "routes": [
     {
       "src": "/api/pairCode",
-      "methods": ["GET", "POST"],
-      "dest": "/pair.js"
+      "dest": "pair.js"
     }
   ]
 }
