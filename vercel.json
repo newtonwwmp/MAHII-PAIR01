@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "pair.js",
+        "use": "@vercel/node"
+      }
+    ],
+    "routes": {
+      "/api/pairCode": {
+        "methods": ["GET", "POST"]
+      }
+    }
+  }
+  
